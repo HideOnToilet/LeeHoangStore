@@ -14,7 +14,7 @@ const paymentController = async(request,response)=>{
             billing_address_collection : 'auto',
             shipping_options : [
                 {
-                    shipping_rate : 'shr_1PW8ux05ykJt4XWjJJ3qKdS9'
+                    shipping_rate : 'shr_1PWTNX05ykJt4XWj0KPB9uw8'
                 }
             ],
             customer_email : user.email,
